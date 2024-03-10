@@ -1,4 +1,4 @@
-# zelda-podcast
+# minecraft-podcast
 ## Upload MP3s
 - Add mp3 files to directory for new shows in directory
 - 'cd' change directory to correct directory, and 'ls' list files to make sure you are in right place
