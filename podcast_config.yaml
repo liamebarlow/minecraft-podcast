@@ -1,7 +1,7 @@
 ---
 metadata:
   title: "Liam's Minecraft Podcast"
-  description: "In diesem Podcast werde ich viel wissen über das Spiel The Legend of Zelda Tears of the Kingdom mit euch teilen"
+  description: "Liam spricht über minecraft"
   language: "de-at"
   link: "https://liamebarlow.b-cdn.net/minecraft-podcast/"
   itunes_image: "https://liamebarlow.b-cdn.net/minecraft-podcast/pickaxe.png"
@@ -13,8 +13,8 @@ metadata:
   guid: "a7019889-2302-5272-b468-7055cfc6b63f"
 
 episodes:
-  - title: "Gegner: Teil 1"
-    description: "In dieser episode von meinem podcast stelle ich " 
+  - title: "Minecraft Monster"
+    description: "In dieser episode spreche ich über monster und erkläre wie man sie am besten beseigt" 
     publication_date: "2023-04-22T10:00:00"
     asset_url: "https://liamebarlow.b-cdn.net/minecraft-podcast/podcast 1.mp3"
     episode: 1
@@ -22,8 +22,8 @@ episodes:
     episode_type: "full"
     itunes_explicit: false
     
-  - title: "Gegner: Teil 2"
-    description: "In dieser episode von meinem podcast stele ich" 
+  - title: "PVP (Player versus Player)"
+    description: "In diser episode spreche ich über PVP und wie man gewinnt" 
     publication_date: "2023-05-01T10:00:00"
     asset_url: "https://liamebarlow.b-cdn.net/minecraft-podcast/podcast 2 (pvp).mp3"
     episode: 2
@@ -31,29 +31,29 @@ episodes:
     episode_type: "full"
     itunes_explicit: false
 
-  - title: "Gegner: Teil 3"
-    description: "In dieser episode von meinem podcast stele ich" 
-    publication_date: "2023-05-01T10:00:00"
+  - title: "Biome"
+    description: "In dieser episode spreche ich über die vielen verscheidenen biome in minecraft" 
+    publication_date: "2023-05-14T10:00:00"
     asset_url: "https://liamebarlow.b-cdn.net/minecraft-podcast/podcast 3 (biomes ).mp3"
-    episode: 2
+    episode: 3
     season: 1
     episode_type: "full"
     itunes_explicit: false
 
-  - title: "Gegner: Teil 4"
-    description: "In dieser episode von meinem podcast stele ich" 
-    publication_date: "2023-05-01T10:00:00"
+  - title: "Friedliche wesen"
+    description: "In dieser episode spreche ich über die vielen friedlichen wesen in minecraft" 
+    publication_date: "2023-06-02T10:00:00"
     asset_url: "https://liamebarlow.b-cdn.net/minecraft-podcast/podcast 4 passive mobs.mp3"
-    episode: 2
+    episode: 4
     season: 1
     episode_type: "full"
     itunes_explicit: false
 
-  - title: "Gegner: Teil 5"
-    description: "In dieser episode von meinem podcast stele ich" 
-    publication_date: "2023-05-01T10:00:00"
-    asset_url: "https://liamebarlow.b-cdn.net/minecraft-podcastpodcast 5 mit tobi.mp3"
-    episode: 2
+  - title: "Die Nervigsten Monster"
+    description: "In Dieser episode habe ich einen gast in meinem podcast nämlich meinen freund Tobi !. Wir übelegen welche monster wir am nervigsten finden" 
+    publication_date: "2023-06-14T10:00:00"
+    asset_url: "https://liamebarlow.b-cdn.net/minecraft-podcast/podcast 5 mit tobi.mp3"
+    episode: 5
     season: 1
     episode_type: "full"
     itunes_explicit: false

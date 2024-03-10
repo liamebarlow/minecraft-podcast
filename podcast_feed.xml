@@ -2,7 +2,7 @@
 <rss xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:podcast="https://podcastindex.org/namespace/1.0" version="2.0">
 	<channel>
 		<title>Liam's Minecraft Podcast</title>
-		<description>In diesem Podcast werde ich viel wissen über das Spiel The Legend of Zelda Tears of the Kingdom mit euch teilen</description>
+		<description>Liam spricht über minecraft</description>
 		<language>de-at</language>
 		<link>https://liamebarlow.b-cdn.net/minecraft-podcast/</link>
 		<generator>Podcast RSS Generator (https://github.com/vpetersson/podcast-rss-generator)</generator>
@@ -12,38 +12,80 @@
 			<itunes:email>podcast@nutmeg.at</itunes:email>
 		</itunes:owner>
 		<itunes:author>Liam</itunes:author>
-		<itunes:summary>In diesem Podcast werde ich viel wissen über das Spiel The Legend of Zelda Tears of the Kingdom mit euch teilen</itunes:summary>
+		<itunes:summary>Liam spricht über minecraft</itunes:summary>
 		<podcast:guid>a7019889-2302-5272-b468-7055cfc6b63f</podcast:guid>
 		<podcast:locked>no</podcast:locked>
 		<itunes:category text="Video Games" />
-		<itunes:image href="https://liamebarlow.b-cdn.net/zelda-podcast/pickaxe.png" />
+		<itunes:image href="https://liamebarlow.b-cdn.net/minecraft-podcast/pickaxe.png" />
 		<item>
-			<pubDate>Sun, 25 Feb 2024 11:00:00 -0000</pubDate>
-			<title>Gegner: Teil 1</title>
-			<description>In dieser episode von meinem podcast stelle ich euch die verschiedenen gegner in tears of the kingdom vor.</description>
-			<guid>https://liamebarlow.b-cdn.net/zelda-podcast/podcast 1.mp3</guid>
-			<enclosure url="https://liamebarlow.b-cdn.net/zelda-podcast/podcastzeldagegner.mp3" type="audio/mp3" length="3620177" />
+			<pubDate>Sat, 22 Apr 2023 10:00:00 -0000</pubDate>
+			<title>Minecraft Monster</title>
+			<description>In dieser episode spreche ich über monster und erkläre wie man sie am besten beseigt</description>
+			<guid>https://liamebarlow.b-cdn.net/minecraft-podcast/podcast 1.mp3</guid>
+			<enclosure url="https://liamebarlow.b-cdn.net/minecraft-podcast/podcast 1.mp3" type="audio/mp3" length="7051791" />
 			<itunes:explicit>false</itunes:explicit>
-			<itunes:duration>362</itunes:duration>
+			<itunes:duration>721</itunes:duration>
 			<itunes:episode>1</itunes:episode>
 			<itunes:season>1</itunes:season>
 			<itunes:episodeType>full</itunes:episodeType>
-			<link>https://liamebarlow.b-cdn.net/zelda-podcast/</link>
-			<itunes:image href="https://liamebarlow.b-cdn.net/zelda-podcast/zelda-title.jpg" />
+			<link>https://liamebarlow.b-cdn.net/minecraft-podcast/</link>
+			<itunes:image href="https://liamebarlow.b-cdn.net/minecraft-podcast/pickaxe.png" />
 		</item>
 		<item>
-			<pubDate>Sun, 03 Mar 2024 18:00:00 -0000</pubDate>
-			<title>Gegner: Teil 2</title>
-			<description>In dieser episode von meinem podcast stelle ich euch die verschiedenen gegner in tears of the kingdom vor.</description>
-			<guid>https://liamebarlow.b-cdn.net/zelda-podcast/podcastzeldagegner2.mp3</guid>
-			<enclosure url="https://liamebarlow.b-cdn.net/zelda-podcast/podcastzeldagegner2.mp3" type="audio/mp3" length="7026301" />
+			<pubDate>Mon, 01 May 2023 10:00:00 -0000</pubDate>
+			<title>PVP (Player versus Player)</title>
+			<description>In diser episode spreche ich über PVP und wie man gewinnt</description>
+			<guid>https://liamebarlow.b-cdn.net/minecraft-podcast/podcast 2 (pvp).mp3</guid>
+			<enclosure url="https://liamebarlow.b-cdn.net/minecraft-podcast/podcast 2 (pvp).mp3" type="audio/mp3" length="3242125" />
 			<itunes:explicit>false</itunes:explicit>
-			<itunes:duration>702</itunes:duration>
+			<itunes:duration>325</itunes:duration>
 			<itunes:episode>2</itunes:episode>
 			<itunes:season>1</itunes:season>
 			<itunes:episodeType>full</itunes:episodeType>
-			<link>https://liamebarlow.b-cdn.net/zelda-podcast/</link>
-			<itunes:image href="https://liamebarlow.b-cdn.net/zelda-podcast/zelda-title.jpg" />
+			<link>https://liamebarlow.b-cdn.net/minecraft-podcast/</link>
+			<itunes:image href="https://liamebarlow.b-cdn.net/minecraft-podcast/pickaxe.png" />
+		</item>
+		<item>
+			<pubDate>Sun, 14 May 2023 10:00:00 -0000</pubDate>
+			<title>Biome</title>
+			<description>In dieser episode spreche ich über die vielen verscheidenen biome in minecraft</description>
+			<guid>https://liamebarlow.b-cdn.net/minecraft-podcast/podcast 3 (biomes ).mp3</guid>
+			<enclosure url="https://liamebarlow.b-cdn.net/minecraft-podcast/podcast 3 (biomes ).mp3" type="audio/mp3" length="5159702" />
+			<itunes:explicit>false</itunes:explicit>
+			<itunes:duration>519</itunes:duration>
+			<itunes:episode>3</itunes:episode>
+			<itunes:season>1</itunes:season>
+			<itunes:episodeType>full</itunes:episodeType>
+			<link>https://liamebarlow.b-cdn.net/minecraft-podcast/</link>
+			<itunes:image href="https://liamebarlow.b-cdn.net/minecraft-podcast/pickaxe.png" />
+		</item>
+		<item>
+			<pubDate>Fri, 02 Jun 2023 10:00:00 -0000</pubDate>
+			<title>Friedliche wesen</title>
+			<description>In dieser episode spreche ich über die vielen friedlichen wesen in minecraft</description>
+			<guid>https://liamebarlow.b-cdn.net/minecraft-podcast/podcast 4 passive mobs.mp3</guid>
+			<enclosure url="https://liamebarlow.b-cdn.net/minecraft-podcast/podcast 4 passive mobs.mp3" type="audio/mp3" length="11941030" />
+			<itunes:explicit>false</itunes:explicit>
+			<itunes:duration>1200</itunes:duration>
+			<itunes:episode>4</itunes:episode>
+			<itunes:season>1</itunes:season>
+			<itunes:episodeType>full</itunes:episodeType>
+			<link>https://liamebarlow.b-cdn.net/minecraft-podcast/</link>
+			<itunes:image href="https://liamebarlow.b-cdn.net/minecraft-podcast/pickaxe.png" />
+		</item>
+		<item>
+			<pubDate>Wed, 14 Jun 2023 10:00:00 -0000</pubDate>
+			<title>Die Nervigsten Monster</title>
+			<description>In Dieser episode habe ich einen gast in meinem podcast nämlich meinen freund Tobi !. Wir übelegen welche monster wir am nervigsten finden</description>
+			<guid>https://liamebarlow.b-cdn.net/minecraft-podcast/podcast 5 mit tobi.mp3</guid>
+			<enclosure url="https://liamebarlow.b-cdn.net/minecraft-podcast/podcast 5 mit tobi.mp3" type="audio/mp3" length="6672941" />
+			<itunes:explicit>false</itunes:explicit>
+			<itunes:duration>657</itunes:duration>
+			<itunes:episode>5</itunes:episode>
+			<itunes:season>1</itunes:season>
+			<itunes:episodeType>full</itunes:episodeType>
+			<link>https://liamebarlow.b-cdn.net/minecraft-podcast/</link>
+			<itunes:image href="https://liamebarlow.b-cdn.net/minecraft-podcast/pickaxe.png" />
 		</item>
 	</channel>
 </rss>
