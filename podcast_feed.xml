@@ -1,0 +1,49 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<rss xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:podcast="https://podcastindex.org/namespace/1.0" version="2.0">
+	<channel>
+		<title>Liam's Minecraft Podcast</title>
+		<description>In diesem Podcast werde ich viel wissen über das Spiel The Legend of Zelda Tears of the Kingdom mit euch teilen</description>
+		<language>de-at</language>
+		<link>https://liamebarlow.b-cdn.net/minecraft-podcast/</link>
+		<generator>Podcast RSS Generator (https://github.com/vpetersson/podcast-rss-generator)</generator>
+		<atom:link href="https://liamebarlow.github.io/minecraft-podcast/podcast_feed.xml" rel="self" type="application/rss+xml" />
+		<itunes:explicit>false</itunes:explicit>
+		<itunes:owner>
+			<itunes:email>podcast@nutmeg.at</itunes:email>
+		</itunes:owner>
+		<itunes:author>Liam</itunes:author>
+		<itunes:summary>In diesem Podcast werde ich viel wissen über das Spiel The Legend of Zelda Tears of the Kingdom mit euch teilen</itunes:summary>
+		<podcast:guid>a7019889-2302-5272-b468-7055cfc6b63f</podcast:guid>
+		<podcast:locked>no</podcast:locked>
+		<itunes:category text="Video Games" />
+		<itunes:image href="https://liamebarlow.b-cdn.net/zelda-podcast/pickaxe.png" />
+		<item>
+			<pubDate>Sun, 25 Feb 2024 11:00:00 -0000</pubDate>
+			<title>Gegner: Teil 1</title>
+			<description>In dieser episode von meinem podcast stelle ich euch die verschiedenen gegner in tears of the kingdom vor.</description>
+			<guid>https://liamebarlow.b-cdn.net/zelda-podcast/podcast 1.mp3</guid>
+			<enclosure url="https://liamebarlow.b-cdn.net/zelda-podcast/podcastzeldagegner.mp3" type="audio/mp3" length="3620177" />
+			<itunes:explicit>false</itunes:explicit>
+			<itunes:duration>362</itunes:duration>
+			<itunes:episode>1</itunes:episode>
+			<itunes:season>1</itunes:season>
+			<itunes:episodeType>full</itunes:episodeType>
+			<link>https://liamebarlow.b-cdn.net/zelda-podcast/</link>
+			<itunes:image href="https://liamebarlow.b-cdn.net/zelda-podcast/zelda-title.jpg" />
+		</item>
+		<item>
+			<pubDate>Sun, 03 Mar 2024 18:00:00 -0000</pubDate>
+			<title>Gegner: Teil 2</title>
+			<description>In dieser episode von meinem podcast stelle ich euch die verschiedenen gegner in tears of the kingdom vor.</description>
+			<guid>https://liamebarlow.b-cdn.net/zelda-podcast/podcastzeldagegner2.mp3</guid>
+			<enclosure url="https://liamebarlow.b-cdn.net/zelda-podcast/podcastzeldagegner2.mp3" type="audio/mp3" length="7026301" />
+			<itunes:explicit>false</itunes:explicit>
+			<itunes:duration>702</itunes:duration>
+			<itunes:episode>2</itunes:episode>
+			<itunes:season>1</itunes:season>
+			<itunes:episodeType>full</itunes:episodeType>
+			<link>https://liamebarlow.b-cdn.net/zelda-podcast/</link>
+			<itunes:image href="https://liamebarlow.b-cdn.net/zelda-podcast/zelda-title.jpg" />
+		</item>
+	</channel>
+</rss>

@@ -1,0 +1,59 @@
+---
+metadata:
+  title: "Liam's Minecraft Podcast"
+  description: "In diesem Podcast werde ich viel wissen über das Spiel The Legend of Zelda Tears of the Kingdom mit euch teilen"
+  language: "de-at"
+  link: "https://liamebarlow.b-cdn.net/minecraft-podcast/"
+  itunes_image: "https://liamebarlow.b-cdn.net/minecraft-podcast/pickaxe.png"
+  itunes_category: "Video Games"
+  itunes_explicit: false
+  itunes_author: "Liam"
+  itunes_email: "podcast@nutmeg.at"
+  rss_feed_url: "https://liamebarlow.github.io/minecraft-podcast/podcast_feed.xml"
+  guid: "a7019889-2302-5272-b468-7055cfc6b63f"
+
+episodes:
+  - title: "Gegner: Teil 1"
+    description: "In dieser episode von meinem podcast stelle ich " 
+    publication_date: "2023-04-22T10:00:00"
+    asset_url: "https://liamebarlow.b-cdn.net/minecraft-podcast/podcast 1.mp3"
+    episode: 1
+    season: 1
+    episode_type: "full"
+    itunes_explicit: false
+    
+  - title: "Gegner: Teil 2"
+    description: "In dieser episode von meinem podcast stele ich" 
+    publication_date: "2023-05-01T10:00:00"
+    asset_url: "https://liamebarlow.b-cdn.net/minecraft-podcast/podcast 2 (pvp).mp3"
+    episode: 2
+    season: 1
+    episode_type: "full"
+    itunes_explicit: false
+
+  - title: "Gegner: Teil 3"
+    description: "In dieser episode von meinem podcast stele ich" 
+    publication_date: "2023-05-01T10:00:00"
+    asset_url: "https://liamebarlow.b-cdn.net/minecraft-podcast/podcast 3 (biomes ).mp3"
+    episode: 2
+    season: 1
+    episode_type: "full"
+    itunes_explicit: false
+
+  - title: "Gegner: Teil 4"
+    description: "In dieser episode von meinem podcast stele ich" 
+    publication_date: "2023-05-01T10:00:00"
+    asset_url: "https://liamebarlow.b-cdn.net/minecraft-podcast/podcast 4 passive mobs.mp3"
+    episode: 2
+    season: 1
+    episode_type: "full"
+    itunes_explicit: false
+
+  - title: "Gegner: Teil 5"
+    description: "In dieser episode von meinem podcast stele ich" 
+    publication_date: "2023-05-01T10:00:00"
+    asset_url: "https://liamebarlow.b-cdn.net/minecraft-podcastpodcast 5 mit tobi.mp3"
+    episode: 2
+    season: 1
+    episode_type: "full"
+    itunes_explicit: false
